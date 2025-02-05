@@ -1,5 +1,4 @@
-Geodigital assets in Europe is produced by different organisations and require specific expertise to use it, to discover data sources, understand how to use them together. Some of these expertise is already encoded in documentation, structured metadata, some is shared between experts. EuroSDR Linked Data group wishes to advance the adoption of linked data and artifical intelligence technologies by the providers and the publishers of these assets, to enhance their reusability.
-
+Geodigital assets in Europe is produced by different organisations and require specific expertise to use it, to discover data sources, understand how to use them together. Some of these expertise is already encoded in documentation, structured metadata, some is shared between experts but is still implicit. EuroSDR Linked Data group wishes to advance the adoption of linked data and artifical intelligence technologies by the providers and the publishers of these assets, to enhance the reusability of these data by potential users.   
 Read more on : http://eurosdr.net/news/new-publication-official-publication-no-76-2024-eurosdr-linked-data-project-mid-term-
 
-How to contribute : write down a feedback on one or more geodigital asset  
+One approach is to foster the production and consolidation of users feedbacks, that are considered as useful items to build an Open Knowledge Graph about digita assets in Europe and their usages. How to contribute ? If you are a user of geodata, or a provider, please write down a feedback on one or more geodigital asset.   
