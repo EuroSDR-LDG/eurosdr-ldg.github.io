@@ -1,6 +1,7 @@
 # Feedbacks 
 
-## FB_BuildingChanges : Integrating topographic building data between two dates
+### FB_BuildingChanges : Integrating topographic building data between two dates
+contact/author : benedictebucher
 This feedback is about the (#source data)  BDTopo data and (#source data)  ATKIS data on Strasbourg functional area, in 2011 and in 2021, only buildings.
 The users were a group of researchers in geomatics. 
 Our motivation was to map systematically the changes in buildings for densification studies
